@@ -7,7 +7,7 @@ simulador.py considera a entrada definida em entrada.yaml
 
 Comando: python simulador.py
 
-Conforme necessário, alterar variável "iteracoes" na linha 72 em simulador.py
+Conforme necessário, alterar variável "iteracoes" na linha 72 em simulador.py. Deixei como 100.000
 ==================================
 .yaml (entrada)
 ==================================
