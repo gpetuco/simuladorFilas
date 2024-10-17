@@ -1,0 +1,28 @@
+Tamanho 3
+
+F1
+ProxFila 1
+MesmaFila 0
+Sair 0
+Servidores 1
+Capacidade 1
+Chegada 2..4
+Saida 1..2
+
+F2
+ProxFila 0.3
+MesmaFila 0.5
+Sair 0.2
+Servidores 2
+Capacidade 5
+Chegada 4..8
+Saida 4..8
+
+F3
+ProxFila 0
+MesmaFila 0.7
+Sair 0.3
+Servidores 2
+Capacidade 10
+Chegada 5..15
+Saida 5..15
